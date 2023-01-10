@@ -11,7 +11,7 @@ For SVM we can see the strategy return would be more favorable for the investing
 
 
 
-SVM Model Prediction
+SVM Model Prediction:
 
 ![SVM](https://user-images.githubusercontent.com/112976523/211613401-6e12e14b-aeed-455c-9170-b00f27bc2d84.png)
 
@@ -23,6 +23,6 @@ For Logistics Regression model is quite bad that we start losing the returns whe
 
 
 
-Logistic Regression Model Prediction
+Logistic Regression Model Prediction:
 
 ![LR](https://user-images.githubusercontent.com/112976523/211613422-3ec5f240-b3ee-46c7-b774-78e423e55960.png)
